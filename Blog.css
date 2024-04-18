@@ -1,0 +1,31 @@
+.post{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  background-color: lightgray;
+}
+
+.heading{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+  width: 50%;
+  margin-bottom: 0px;
+}
+
+.date{
+  width: 50%;
+  margin-bottom: 0px;
+  justify-content: end;
+}
+
+.voltekst{
+  font-family: Arial, Helvetica, sans-serif;
+}
